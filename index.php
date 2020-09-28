@@ -12,7 +12,7 @@ $rows = $stmt->fetchAll(PDO::FETCH_ASSOC);
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Ali Jesus Padron Villasmil</title>
+    <title>Sandhya Nimbark</title>
 </head>
 <body style="font-family: Helvetica">
     <h1>
